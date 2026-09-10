@@ -39,3 +39,8 @@ python -m src.main
 ## 📄 License
 
 MIT
+
+
+## Prerequisites
+- Required environment and dependencies
+
