@@ -1,5 +1,7 @@
 # 09_observability
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 > Python observability foundation for structured logs, metrics, distributed traces, dashboards, and actionable alerts.
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
